@@ -1,0 +1,9 @@
+# Python bytecodes and caches
+*.pyc
+*.pyo
+__pycache__/*
+.pytest_cache/*
+
+# vIM caches
+*.swp
+*.swo
